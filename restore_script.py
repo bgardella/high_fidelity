@@ -24,7 +24,7 @@ device_name_map = { vol_id_list[0]: '/dev/sdf',
                     vol_id_list[1]: '/dev/sdg',
                     vol_id_list[2]: '/dev/sdh' }
 
-report_email = 'bgardella@gmail.com'
+report_email = 'your@email.com'
 
 ####################################################
 
