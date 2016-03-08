@@ -10,3 +10,7 @@
 * python
 * boto3 library
 * aws account credentials
+
+# ISSUES
+
+* Most modern email services will classify email sent from AWS instances as spam.  Check accordingly.
